@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/facebook_clone/BuildConfig.java
+ com.example.facebook_clone.BuildConfig
